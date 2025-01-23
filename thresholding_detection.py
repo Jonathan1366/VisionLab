@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import os
 
-image_path = "C:/pycompvision/bunga.jpeg"
+image_path = "YOUR IMAGE PATH"
 
 # Cek apakah file gambar ada di lokasi yang benar
 if not os.path.exists(image_path):
