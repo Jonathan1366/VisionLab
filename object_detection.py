@@ -5,7 +5,7 @@ from ultralytics import YOLO
 import matplotlib.pyplot as plt
 
 # Path ke gambar
-image_path = "C:/pycompvision/horse.jpg"
+image_path = "YOUR IMAGE PATH"
 
 # Load model YOLOv8 pre-trained
 model = YOLO("yolov8n.pt")  # Gunakan YOLOv8 Nano (ringan & cepat)
