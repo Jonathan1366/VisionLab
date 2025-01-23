@@ -15,21 +15,6 @@ A practical **Computer Vision learning project** that explores **Object Detectio
 - **Libraries:** OpenCV, NumPy, Matplotlib
 - **AI Model:** YOLOv8 (Pre-trained)
 
-## 📷 Example Results
-
-### 🎯 YOLOv8 Object Detection
-Detecting objects in an image:
-![YOLO Object Detection](assets/yolo_result.png)
-
-### 🔍 ORB Feature Matching
-Feature keypoint detection:
-![ORB Feature Matching](assets/orb_features.png)
-
-### 🎭 Thresholding Techniques
-Binary, Adaptive, and Otsu’s Thresholding:
-![Thresholding Results](assets/threshold_results.png)
-
-
 ## 🛠️ Installation
 ```bash
 git clone https://github.com/yourusername/VisionLab.git
